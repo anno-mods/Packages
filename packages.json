@@ -24,6 +24,16 @@
       "repo": "SmallModsCollection",
       "owner": "Taludas",
       "download": "SmallModsCollection_v*.zip"
+    },
+    {
+      "repo": "GameplayModsCollection",
+      "owner": "Taludas",
+      "download": "GameplayModsCollection_v*.zip"
+    },
+     {
+      "repo": "PortraitMods",
+      "owner": "Taludas",
+      "download": "PortraitMods_v*.zip"
     }
   ]
 }
