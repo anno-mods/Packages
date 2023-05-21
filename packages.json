@@ -16,6 +16,11 @@
       "download": "Jakobs-Collection-v*.zip"
     },
     {
+      "repo": "AnnoMods",
+      "owner": "xormenter",
+      "download": "lordysmods-v*.zip"
+    },
+    {
       "repo": "WholesomeHaciendaHaul",
       "owner": "Taludas",
       "download": "WholesomeHaciendaHaul_v*.zip"
@@ -30,15 +35,31 @@
       "owner": "Taludas",
       "download": "GameplayModsCollection_v*.zip"
     },
-     {
+    {
       "repo": "PortraitMods",
       "owner": "Taludas",
       "download": "PortraitMods_v*.zip"
     },
-     {
-      "repo": "AnnoMods",
-      "owner": "xormenter",
-      "download": "lordysmods-v*.zip"
+    {
+      "repo": "RiverSlots",
+      "owner": "Taludas",
+      "download": "RiverSlots_NW_v*.zip"
+    },
+    {
+      "repo": "RiverSlots",
+      "owner": "Taludas",
+      "download": "RiverSlots_OW_v*.zip"
+    },
+    {
+      "repo": "RiverSlots",
+      "owner": "Taludas",
+      "download": "VanillaRiverslotBuildingsNW_v*.zip"
+    },
+    {
+      "repo": "RiverSlots",
+      "owner": "Taludas",
+      "download": "VanillaRiverslotBuildingsOW_v*.zip"
     }
   ]
 }
+
