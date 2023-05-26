@@ -21,6 +21,11 @@
       "download": "lordysmods-v*.zip"
     },
     {
+      "repo": "MU_Anno1800_Mod_Collection",
+      "owner": "muggenstuermer",
+      "download": "MU_Anno1800_Mod_Collection_Full_v*.zip"
+    },
+    {
       "repo": "WholesomeHaciendaHaul",
       "owner": "Taludas",
       "download": "WholesomeHaciendaHaul_v*.zip"
