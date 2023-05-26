@@ -10,6 +10,7 @@ A collection of mods that can be found on github.
 | anno-mods | New-World-Tourism | Gameplay.New.World.Tourism.zip |
 | jakobharder | anno-1800-jakobs-mods | Jakobs-Collection-v*.zip |
 | xormenter | AnnoMods | lordysmods-v*.zip |
+| Muggenstuermer | MU_Anno1800_Mod_Collection | MU_Anno1800_Mod_Collection_Full_v*.zip
 | Taludas | WholesomeHaciendaHaul | WholesomeHaciendaHaul_v*.zip |
 | Taludas | SmallModsCollection | SmallModsCollection_v*.zip |
 | Taludas | GameplayModsCollection | GameplayModsCollection_v*.zip |
