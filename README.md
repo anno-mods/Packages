@@ -16,3 +16,4 @@ A collection of mods that can be found on github.
 | Taludas | GameplayModsCollection | GameplayModsCollection_v*.zip |
 | Taludas | PortraitMods | PortraitMods_v*.zip |
 | Taludas | RiverSlots | RiverSlots_NW_v*.zip - RiverSlots_OW_v*.zip - VanillaRiverslotBuildingsNW_v*.zip - VanillaRiverslotBuildingsOW_v*.zip|
+| adjagu | residences-provide-influence | residences-provide-influence-*.zip |

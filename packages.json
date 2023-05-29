@@ -64,6 +64,11 @@
       "repo": "RiverSlots",
       "owner": "Taludas",
       "download": "VanillaRiverslotBuildingsOW_v*.zip"
+    },
+    {
+      "repo": "residences-provide-influence",
+      "owner": "adjagu",
+      "download": "residences-provide-influence-*.zip"
     }
   ]
 }
