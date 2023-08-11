@@ -2,13 +2,17 @@
 
 A collection of mods that can be found on github.
 
-# Table
+## Table
 
 |Owner|Name|Package|
 |-|-|-|
 | anno-mods | Spice-it-Up | Spice-it-Up.zip |
 | anno-mods | New-World-Tourism | Gameplay.New.World.Tourism.zip |
 | jakobharder | anno-1800-jakobs-mods | Jakobs-Collection-v*.zip |
+| jakobharder | anno-1800-jakobs-mods | Jakobs-City-Variations-*.zip |
+| jakobharder | anno-1800-jakobs-mods | Jakobs-Industrial-Cities-*.zip |
+| jakobharder | anno-1800-jakobs-mods | Jakobs-New-World-Cities-*.zip |
+| jakobharder | anno-1800-jakobs-mods | Pescatarians-*.zip |
 | xormenter | AnnoMods | lordysmods-v*.zip |
 | Muggenstuermer | MU_Anno1800_Mod_Collection | MU_Anno1800_Mod_Collection_Full_v*.zip
 | Taludas | WholesomeHaciendaHaul | WholesomeHaciendaHaul_v*.zip |

@@ -13,7 +13,42 @@
     {
       "repo": "anno-1800-jakobs-mods",
       "owner": "jakobharder",
-      "download": "Jakobs-Collection-v*.zip"
+      "download": "Jakobs-Collection-v*.zip",
+      "modName": "Complete Jakob's Collection",
+      "creatorName": "Jakob",
+      "readme": "doc/imya.md"
+    },
+    {
+      "repo": "anno-1800-jakobs-mods",
+      "owner": "jakobharder",
+      "download": "Jakobs-City-Variations-*.zip",
+      "modName": "Jakob's City Variations",
+      "creatorName": "Jakob",
+      "readme": "mods/addon-city-variations/README.md"
+    },
+    {
+      "repo": "anno-1800-jakobs-mods",
+      "owner": "jakobharder",
+      "download": "Jakobs-Industrial-Cities-*.zip",
+      "modName": "Jakob's Industrial Cities",
+      "creatorName": "Jakob",
+      "readme": "mods/addon-industrial-cities/README.md"
+    },
+    {
+      "repo": "anno-1800-jakobs-mods",
+      "owner": "jakobharder",
+      "download": "Jakobs-New-World-Cities-*.zip",
+      "modName": "Jakob's New World Cities",
+      "creatorName": "Jakob",
+      "readme": "mods/addon-new-world-cities/README.md"
+    },
+    {
+      "repo": "anno-1800-jakobs-mods",
+      "owner": "jakobharder",
+      "download": "Pescatarians-*.zip",
+      "modName": "Pescatarians",
+      "creatorName": "Jakob",
+      "readme": "mods/addon-pescatarians/README.md"
     },
     {
       "repo": "AnnoMods",
