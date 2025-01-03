@@ -21,4 +21,5 @@ A collection of mods that can be found on github.
 | Taludas | PortraitMods | PortraitMods_v*.zip |
 | Taludas | RiverSlots | RiverSlots_NW_v*.zip - RiverSlots_OW_v*.zip - VanillaRiverslotBuildingsNW_v*.zip - VanillaRiverslotBuildingsOW_v*.zip|
 | Taludas | NewWorldExpanded | Mayabeque_v*.zip - MuddyRiversRemoved_v*.zip - NewWorldExpanded_v*.zip |
+| Taludas | NoblesseOblige | NoblesseOblige.zip |
 | adjagu | residences-provide-influence | residences-provide-influence-*.zip |
