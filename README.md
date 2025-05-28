@@ -15,11 +15,11 @@ A collection of mods that can be found on github.
 | jakobharder | anno-1800-jakobs-mods | Pescatarians-*.zip |
 | xormenter | AnnoMods | lordysmods-v*.zip |
 | Muggenstuermer | MU_Anno1800_Mod_Collection | MU_Anno1800_Mod_Collection_Full_v*.zip
-| Taludas | WholesomeHaciendaHaul | WholesomeHaciendaHaul_v*.zip |
+| Taludas | WholesomeHaciendaHaul | WholesomeHaciendaHaul.zip |
 | Taludas | SmallModsCollection | SmallModsCollection_v*.zip |
 | Taludas | GameplayModsCollection | GameplayModsCollection_v*.zip |
 | Taludas | PortraitMods | PortraitMods_v*.zip |
 | Taludas | RiverSlots | RiverSlots_NW_v*.zip - RiverSlots_OW_v*.zip - VanillaRiverslotBuildingsNW_v*.zip - VanillaRiverslotBuildingsOW_v*.zip|
-| Taludas | NewWorldExpanded | Mayabeque_v*.zip - MuddyRiversRemoved_v*.zip - NewWorldExpanded_v*.zip |
+| Taludas | NewWorldExpanded | Mayabeque.zip - MuddyRiversRemoved.zip - NewWorldExpanded.zip |
 | Taludas | NoblesseOblige | NoblesseOblige.zip |
 | adjagu | residences-provide-influence | residences-provide-influence-*.zip |
