@@ -109,7 +109,55 @@
       "repo": "residences-provide-influence",
       "owner": "adjagu",
       "download": "residences-provide-influence-*.zip"
+    },
+    {
+      "repo": "anno-mods-hier0nimus",
+      "owner": "Hier0nimus",
+      "download": "DLC.Military.Attention.-.Logistics.and.Population.*.zip",
+      "modName": "Military Attention - Logistics & Population",
+      "creatorName": "Hier0nimus"
+    },
+    {
+      "repo": "anno-mods-hier0nimus",
+      "owner": "Hier0nimus",
+      "download": "Ships.Military.Attention.-.Ships.*.zip",
+      "modName": "Military Attention - Ships",
+      "creatorName": "Hier0nimus"
+    },
+    {
+      "repo": "anno-mods-hier0nimus",
+      "owner": "Hier0nimus",
+      "download": "Gameplay.Military.Attention.-.Pirates.*.zip",
+      "modName": "Military Attention - Pirates",
+      "creatorName": "Hier0nimus"
+    },
+    {
+      "repo": "anno-mods-hier0nimus",
+      "owner": "Hier0nimus",
+      "download": "Gameplay.Military.Attention.-.Legendary.AI.*.zip",
+      "modName": "Military Attention - Legendary AI",
+      "creatorName": "Hier0nimus"
+    },
+    {
+      "repo": "anno-mods-hier0nimus",
+      "owner": "Hier0nimus",
+      "download": "Airship.Almost.100.hot.air.balloons.*.zip",
+      "modName": "Almost 100 hot air balloons",
+      "creatorName": "Hier0nimus"
+    },
+    {
+      "repo": "anno-mods-hier0nimus",
+      "owner": "Hier0nimus",
+      "download": "Gameplay.Music.to.my.ears.*.zip",
+      "modName": "Music To My Ears",
+      "creatorName": "Hier0nimus"
+    },
+    {
+      "repo": "anno-mods-hier0nimus",
+      "owner": "Hier0nimus",
+      "download": "Gameplay.The.perfect.specialists.items.pack.*.zip",
+      "modName": "The perfect specialists & items pack",
+      "creatorName": "Hier0nimus"
     }
   ]
 }
-
