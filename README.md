@@ -23,3 +23,10 @@ A collection of mods that can be found on github.
 | Taludas | NewWorldExpanded | Mayabeque.zip - MuddyRiversRemoved.zip - NewWorldExpanded.zip |
 | Taludas | NoblesseOblige | NoblesseOblige.zip |
 | adjagu | residences-provide-influence | residences-provide-influence-*.zip |
+| Hier0nimus | Military Attention - Logistics & Population | DLC.Military.Attention.-.Logistics.and.Population.*.zip |
+| Hier0nimus | Military Attention - Ships | Ships.Military.Attention.-.Ships.*.zip |
+| Hier0nimus | Military Attention - Pirates | Gameplay.Military.Attention.-.Pirates.*.zip |
+| Hier0nimus | Military Attention - Legendary AI | Gameplay.Military.Attention.-.Legendary.AI.*.zip |
+| Hier0nimus | Almost 100 hot air balloons | Airship.Almost.100.hot.air.balloons.*.zip |
+| Hier0nimus | Music To My Ears | Gameplay.Music.to.my.ears.*.zip |
+| Hier0nimus | The perfect specialists & items pack | Gameplay.The.perfect.specialists.items.pack.*.zip |
